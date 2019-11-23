@@ -1,2 +1,3 @@
 # meuProjetoVersionado
-Aula de Versionamento de arquivos
+Aula de Versionamento de arquivo
+Adicionando novas linhas
